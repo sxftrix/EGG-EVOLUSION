@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 25ad1f5ea448f2840844af803c65e309
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - eggImage: {instanceID: 0}
+  - chickImage: {instanceID: 0}
+  - henImage: {instanceID: 0}
+  - roosterImage: {instanceID: 0}
+  - clockText: {instanceID: 0}
+  - eggSprite: {fileID: 21300000, guid: 3140029beb8b1c049a2bb3ef0e364abe, type: 3}
+  - chickSprite: {instanceID: 0}
+  - henSprite: {instanceID: 0}
+  - roosterSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
